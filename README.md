@@ -17,13 +17,9 @@ This Weather App provides a simple, user-friendly interface to display current a
 - **Weather API**: For retrieving weather data.
 - **Serverless Functions**: For hiding sensitive information, the API key, by making requests to the Weather API through a secure serverless function.
 
-
 ## Live Demo
-
 You can access the live demo of the app here.
-Test the app live <a href="https://suhacankilicweatherapptutorial.netlify.app/" target="_blank">here</a>.
+Test the app live [here](https://suhacankilicweatherapptutorial.netlify.app/).
 
 ## Attribution
-
 This project was inspired by and adapted from tutorials and resources provided by [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode). Special thanks for the valuable learning content and tutorials that helped shape this Weather App.
-
