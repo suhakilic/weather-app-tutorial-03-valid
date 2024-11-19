@@ -25,5 +25,5 @@ Test the app live <a href="https://suhacankilicweatherapptutorial.netlify.app/" 
 
 ## Attribution
 
-This project was inspired by and adapted from tutorials and resources provided by [Dave Gray](https://www.youtube.com/@/DaveGrayTeaches). Special thanks for the valuable learning content and tutorials that helped shape this Weather App.
+This project was inspired by and adapted from tutorials and resources provided by [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode). Special thanks for the valuable learning content and tutorials that helped shape this Weather App.
 
